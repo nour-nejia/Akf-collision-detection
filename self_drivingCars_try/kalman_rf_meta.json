@@ -1,0 +1,15 @@
+{
+  "features": [
+    "d_est_m",
+    "v_est_ms",
+    "a_est_ms2",
+    "v_used_ms",
+    "TTC_s"
+  ],
+  "classes": [
+    "APPROCHE",
+    "COLLISION RISK",
+    "STATIONNAIRE",
+    "\u00c9LOIGNEMENT"
+  ]
+}
