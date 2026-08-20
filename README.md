@@ -1,5 +1,6 @@
 # Prototype embarqué - Filtre de Kalman Adaptatif pour la détection de collision
-(prototype1.jpeg)
+
+![Prototype](./prototype1.jpeg)
 
 > Note importante : ce projet est un mini prototype expérimental réalisé dans un cadre académique. Ce n'est pas une voiture autonome réelle, mais une maquette permettant de tester en conditions matérielles un filtre de Kalman adaptatif appliqué à la détection de collision.
 
